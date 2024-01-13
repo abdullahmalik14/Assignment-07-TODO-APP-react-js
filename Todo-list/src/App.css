@@ -1,0 +1,74 @@
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+
+.main-div{
+  background-color: rgb(18, 42, 43);
+  width: 100%;
+  min-height: 100vh;
+ display: flex;
+
+
+}
+
+.child-div{
+ margin-top: 150px;
+
+  margin-left: -450px;
+  
+}
+
+
+.child-div input{
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  outline: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.child-div button{
+  padding: 5px;
+  background-color: rgb(39, 75, 63);
+  color: white;
+  font-size: 16px;
+margin-left: 10px;
+border: none;
+border-radius: 5px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+
+
+.add-items{
+color: antiquewhite;
+margin-top: 230px;
+margin-left: -530px;
+/* margin-left: 400px; */
+}
+
+
+
+.add-items button{
+  padding: 5px;
+  background-color: rgb(39, 75, 63);
+  color: white;
+  font-size: 16px;
+margin-left: 10px;
+border: none;
+border-radius: 5px;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+/*------------------------------------ title ---------------------------------*/
+
+
+
+
+
